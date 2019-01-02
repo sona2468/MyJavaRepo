@@ -6,6 +6,7 @@ class HelloWorld{
 }
 	public ststic void main(String args[]){
 		
-		System.out.println();
+		HelloWorld obj = new HelloWorld();
+		obj.myMethod();
 }
 }
