@@ -1,7 +1,11 @@
 class HelloWorld{
 
-	public static void main(String args[]){
+	 static void main(String args[]){
 
-		System.out.println("HelloWorld!!!!");
+		System.out.println("HelloWorld... Welcome to!!!!");
+}
+	public ststic void main(String args[]){
+		
+		System.out.println();
 }
 }
